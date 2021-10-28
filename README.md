@@ -4,7 +4,7 @@
 
 
 
-<img src="./capturar.JPG">
+<img src="./capturar.JPG" alt="imagem-apresentação">
 
 > Primeiro desafio do curso de programação do CodeClub utilizando HTML e CSS.
 
